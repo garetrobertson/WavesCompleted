@@ -1,0 +1,109 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e2)
+    Vendor:   NVIDIA
+    VRAM:     1979 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.174 seconds
+Platform assembly: C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Garet\Downloads\Waves Complete\Waves Complete_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x720 60Hz; virtual: 3200x1080 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.076138 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 36bc -> priority: 1 
+  Thread -> id: 3158 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'HouseWall1 (7)') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.140223 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1805.
+Total: 1.718213 ms (FindLiveObjects: 0.201413 ms CreateObjectMapping: 0.162926 ms MarkObjects: 0.920685 ms  DeleteObjects: 0.431477 ms)
+
+Player (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie Spawned. Count/Total = 0.125
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie Spawned. Count/Total = 0.25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie Spawned. Count/Total = 0.375
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie Spawned. Count/Total = 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie Spawned. Count/Total = 0.625
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie Spawned. Count/Total = 0.75
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie Spawned. Count/Total = 0.875
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie Spawned. Count/Total = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie died. Count/Total = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie died. Count/Total = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie died. Count/Total = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie died. Count/Total = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie died. Count/Total = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie died. Count/Total = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie died. Count/Total = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Zombie died. Count/Total = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
